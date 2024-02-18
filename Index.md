@@ -11,8 +11,6 @@ Objective 1.3 Properties and Profiles
 1.3.2 Demonstrate the purpose of Profiles
 1.3.3 Use the Spring Expression Language (SpEL)
 Objective 1.4 Annotation-Based Configuration and Component Scanning
-Spring Professional Develop
-DATASHEET | 2
 1.4.1 Explain and use Annotation-based Configuration
 1.4.2 Discuss Best Practices for Configuration choices
 1.4.3 Use @PostConstruct and @PreDestroy
