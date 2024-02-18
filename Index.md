@@ -77,3 +77,6 @@ Objective 6.3 Spring Boot Actuator
 6.3.2 Secure Actuator HTTP endpoints
 6.3.3 Define custom metrics
 6.3.4 Define custom health indicators
+
+
+![[Screenshot 2024-02-18 at 3.16.01 PM.png]]
