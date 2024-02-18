@@ -1,5 +1,6 @@
 Section 1 – Spring Core
 Objective 1.1 Introduction to Spring Framework
+
 Objective 1.2 Java Configuration
 1.2.1 Define Spring Beans using Java code
 1.2.2 Access Beans in the Application Context
