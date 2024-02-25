@@ -2,4 +2,10 @@
 
 > [!question]- Answer
 > 1,3,4
-> Both the @MockBean and @Mock annotation can be used to create Mockito mocks but there are some differences between the two annotations: • @Mock can only be applied to fields and parameters while @MockBean can only be applied to classes and fields. • @Mock can be used to mock any Java class or interface while @MockBean only allows for mocking of Spring beans or creation of mock Spring beans. @MockBean can be used to mock existing beans but also to create new beans that will belong to the Spring application context. • To be able to use the @MockBean annotation, the Spring runner (@RunWith(SpringRunner.class) ) has to be used to run the associated test. • @MockBean can be used to create custom annotations for specific, reoccurring, needs When running Spring Boot Tests, both @Mock and @MockBean are included in the spring-boot-starter-test. 
+> ![[Pasted image 20240223203751.png]]
+
+SpringRunner - Junit test runner used by Spring
+```java
+@RunWith(SpringRunner.class)
+```
+
